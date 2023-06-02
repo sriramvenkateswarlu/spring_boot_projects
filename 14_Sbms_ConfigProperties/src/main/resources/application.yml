@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/sriramvenkateswarlu/application_properties.git
+          clone-on-start: true

@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:mydb
+    username: abc
+    password: abc
+    driverClassName: org.h2.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true  

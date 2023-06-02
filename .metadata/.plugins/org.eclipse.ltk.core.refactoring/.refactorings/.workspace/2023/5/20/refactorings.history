@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;10_welome_rest_api-1&apos; to &apos;11_welome_rest_api&apos;&#x0D;&#x0A;- Original element: &apos;10_welome_rest_api-1&apos;&#x0D;&#x0A;- Renamed element: &apos;10_welome_rest_api-1&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;10_welome_rest_api-1&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=10_welome_rest_api-1" name="11_welome_rest_api" references="true" stamp="1684400550981" version="1.0"/>
+</session>

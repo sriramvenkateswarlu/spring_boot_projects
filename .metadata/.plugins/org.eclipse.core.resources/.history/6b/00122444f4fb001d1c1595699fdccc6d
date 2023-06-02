@@ -1,0 +1,10 @@
+datasource: ''
+ddl-auto: update
+driver-class-name: com.mysql.cj.jdbc.Driver
+hibernate: ''
+jpa: ''
+password: ashokit@123
+show-sql: true
+spring: ''
+url: jdbc:mysql://localhost:3306/contact
+username: root

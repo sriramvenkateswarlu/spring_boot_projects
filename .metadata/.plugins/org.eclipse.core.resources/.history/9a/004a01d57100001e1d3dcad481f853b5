@@ -1,0 +1,5 @@
+package com.ashokit.restController;
+
+public class HelloRestController {
+
+}
